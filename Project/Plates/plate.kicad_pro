@@ -426,7 +426,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "minivan.kicad_pro",
+    "filename": "plate.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -492,7 +492,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "plate.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
