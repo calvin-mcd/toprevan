@@ -1,4 +1,4 @@
-23003283593741443
+23156914565124632
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -92099,6 +92099,20 @@ Arduino Pro Mini
 28
 28
 cipulot_parts
+BQ25672RQMR
+
+
+0
+29
+29
+cipulot_parts
+Breakaway_Tabs
+
+
+0
+0
+0
+cipulot_parts
 CON_TC2030_outlined
 Tag-Connect programming header; http://www.tag-connect.com/Materials/TC2030-IDC-NL.pdf
 tag connect programming header pogo pins
@@ -92140,6 +92154,20 @@ Cherry-MX-Low-Profile
 0
 2
 2
+cipulot_parts
+Cipulot_Logo_Exposed_Copper
+
+
+0
+0
+0
+cipulot_parts
+Cipulot_Logo_Silk
+
+
+0
+0
+0
 cipulot_parts
 Cipulot_all_info
 
@@ -92323,6 +92351,34 @@ Epson_TSX-3225
 4
 4
 cipulot_parts
+FLXANTIPODELOGO
+
+
+0
+0
+0
+cipulot_parts
+FLXANTIPODELOGOFCU
+
+
+0
+0
+0
+cipulot_parts
+FLXANTIPODELOGOMASK
+
+
+0
+0
+0
+cipulot_parts
+FabDrawing-4Layer-Metric
+
+
+0
+0
+0
+cipulot_parts
 Fuse_0805
 SMT, 2012, 0805
 SMT, 2012, 0805
@@ -92344,7 +92400,14 @@ HOLE_M2
 0
 0
 cipulot_parts
-HOLE_M2_RF
+HOLE_M2_MNK
+
+
+0
+0
+0
+cipulot_parts
+HOLE_M2_RF_Caps
 
 
 0
@@ -92357,6 +92420,13 @@ HOLE_M2_TH
 0
 0
 0
+cipulot_parts
+HRO-TYPE-C-31-D-09
+
+
+0
+20
+20
 cipulot_parts
 HRO-TYPE-C-31-M-08B
 
@@ -92392,6 +92462,13 @@ HRO-TYPE-C-31-M-13
 0
 16
 13
+cipulot_parts
+HRO-TYPE-C-31-M-13C
+USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
+usb usb-c 2.0 pd
+0
+20
+17
 cipulot_parts
 Header-6-Pin-ZigZag
 Through hole straight socket strip, 1x06, 2.54mm pitch, single row
@@ -92525,6 +92602,13 @@ Through hole socket strip THT 1x06 2.54mm single row
 0
 6
 6
+cipulot_parts
+IPX 4 Pole Safesolution
+Through hole straight pin header, 2x02, 2.54mm pitch, double rows
+Through hole pin header THT 2x02 2.54mm double row
+0
+4
+4
 cipulot_parts
 IronMan
 
@@ -92813,9 +92897,23 @@ LED-6028
 2
 2
 cipulot_parts
+LED-SMD_4P-L2.0-W2.0-TL_WS2812B-2020
+
+
+0
+4
+4
+cipulot_parts
 LED_3mm
 
 
+0
+2
+2
+cipulot_parts
+LED_1206_MHT151C
+LED SMD 1206 (3216 Metric), reverse mount, square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode reverse
 0
 2
 2
@@ -92861,6 +92959,13 @@ QFP 0.5
 0
 48
 48
+cipulot_parts
+L_TDK_VLCF4020
+
+
+0
+2
+2
 cipulot_parts
 Legends
 
@@ -94969,6 +95074,13 @@ connector Molex Pico-EZmate side entry
 22
 4
 cipulot_parts
+PicoEZMate_5-Reinforced-Lite
+Molex Pico-EZmate series connector, 78171-0005 (http://www.molex.com/pdm_docs/sd/781710002_sd.pdf), generated with kicad-footprint-generator
+connector Molex Pico-EZmate side entry
+0
+25
+5
+cipulot_parts
 PinHeader_RGB strip
 Through hole straight pin header, 1x03, 1.27mm pitch, single row
 Through hole pin header THT 1x03 1.27mm single row
@@ -95017,6 +95129,13 @@ PushButton_6x6mm_TH_Pretty
 0
 4
 4
+cipulot_parts
+QFN-32_L4.0-W4.0-P0.40-BL-EP2.7
+
+
+0
+33
+33
 cipulot_parts
 QFN-44-1EP_7x7mm_Pitch0.5mm
 UK Package; 44-Lead Plastic QFN (7mm x 7mm); (see Linear Technology QFN_44_05-08-1763.pdf)
@@ -95165,6 +95284,13 @@ connector JST ZH
 15
 14
 cipulot_parts
+SK6803-MINI-E
+
+
+0
+4
+4
+cipulot_parts
 SK6812-MINI-E
 
 
@@ -95194,6 +95320,13 @@ SKQGADE010
 4
 cipulot_parts
 SM0805D
+
+
+0
+2
+2
+cipulot_parts
+SMD_L7.1-W6.5-P5.60
 
 
 0
@@ -95255,6 +95388,27 @@ SSD1306-0.91-OLED-4pin-128x32
 0
 4
 4
+cipulot_parts
+ST-0277D00-052-142
+
+usb usb-c 2.0 pd
+0
+5
+4
+cipulot_parts
+STBB1-APUR
+DFN, 10 Pin (https://www.monolithicpower.com/pub/media/document/MPQ2483_r1.05.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead
+0
+15
+11
+cipulot_parts
+SW-TH_SS-12D10-G3
+
+
+0
+3
+3
 cipulot_parts
 SW_3.5x6.0_TH
 
@@ -95522,19 +95676,26 @@ TRRS_Jumper
 6
 6
 cipulot_parts
+TS-1088R-02026
+
+
+0
+2
+2
+cipulot_parts
+TSSOP-24_L7.8-W4.4-P0.65
+
+
+0
+24
+24
+cipulot_parts
 TSSOP16
 
 
 0
 16
 16
-cipulot_parts
-TYPEC-304YSSW-ACP16
-
-
-0
-16
-13
 cipulot_parts
 Teensy_2.0
 
@@ -95584,6 +95745,34 @@ USB-A-Generic
 0
 6
 5
+cipulot_parts
+USB-A-SMD_903-232A2021S10100
+
+
+0
+6
+6
+cipulot_parts
+USB-A-SMD_U-A-24DS-W-1
+
+
+0
+8
+5
+cipulot_parts
+USB-A-SMD_U-A-24SD-W-2
+
+
+0
+8
+5
+cipulot_parts
+USB-A-SMD_U221-041N-3BU01-S5
+
+
+0
+8
+8
 cipulot_parts
 USB-C-12-Pin-MidMount
 
@@ -95704,6 +95893,20 @@ ace6.5
 0
 0
 cipulot_parts
+blomster
+
+
+0
+0
+0
+cipulot_parts
+blomster2
+
+
+0
+0
+0
+cipulot_parts
 breakaway-hole
 
 
@@ -95774,7 +95977,7 @@ ecs_3U_space_stab
 0
 0
 cipulot_parts
-ecs_6.25U_space_stab
+ecs_6.25U_space_stab_KLC_Wire
  StepUp generated footprint
 
 0
@@ -95788,7 +95991,21 @@ ecs_6U_space_stab
 0
 0
 cipulot_parts
+ecs_6U_space_stab_KLC_Wire
+ StepUp generated footprint
+
+0
+0
+0
+cipulot_parts
 ecs_7U_space_stab
+ StepUp generated footprint
+
+0
+0
+0
+cipulot_parts
+ecs_7U_space_stab_KLC_Wire
  StepUp generated footprint
 
 0
@@ -95802,74 +96019,193 @@ ecs_8U_space_stab
 0
 0
 cipulot_parts
+ecs_pad_0.25U_0.125U_spaced_no_ring
+ StepUp generated footprint
+
+0
+10
+3
+cipulot_parts
+ecs_pad_0.25U_0.125U_spaced_no_ring_cut
+ StepUp generated footprint
+
+0
+10
+3
+cipulot_parts
+ecs_pad_0.25U_0.125U_spaced_no_ring_cut_right
+ StepUp generated footprint
+
+0
+10
+3
+cipulot_parts
+ecs_pad_0.25U_spaced_no_ring
+ StepUp generated footprint
+
+0
+8
+3
+cipulot_parts
+ecs_pad_0.25U_spaced_no_ring_cut
+ StepUp generated footprint
+
+0
+8
+3
+cipulot_parts
+ecs_pad_0.125U_spaced_3_unit_no_ring
+ StepUp generated footprint
+
+0
+6
+3
+cipulot_parts
+ecs_pad_0.125U_spaced_3_unit_no_ring_cut
+ StepUp generated footprint
+
+0
+6
+3
+cipulot_parts
+ecs_pad_0.125U_spaced_no_ring
+ StepUp generated footprint
+
+0
+6
+3
+cipulot_parts
 ecs_pad_1U_no_ring
  StepUp generated footprint
 
 0
-4
+6
 3
 cipulot_parts
 ecs_pad_1U_no_ring_ 東プレ _十六条旭日旗
  StepUp generated footprint
 
 0
-4
+6
 3
 cipulot_parts
 ecs_pad_1U_no_ring_1u_edge_cut
  StepUp generated footprint
 
 0
-4
+6
+3
+cipulot_parts
+ecs_pad_1U_no_ring_1u_edge_cut_horizontal
+ StepUp generated footprint
+
+0
+6
 3
 cipulot_parts
 ecs_pad_1U_no_ring_alveus
  StepUp generated footprint
 
 0
-4
+6
 3
+cipulot_parts
+ecs_pad_1U_no_ring_dafu
+ StepUp generated footprint
+
+0
+6
+3
+cipulot_parts
+ecs_pad_1U_no_ring_horizontal
+ StepUp generated footprint
+
+0
+6
+3
+cipulot_parts
+ecs_pad_1U_no_ring_no_silk
+ StepUp generated footprint
+
+0
+6
+3
+cipulot_parts
+ecs_pad_1U_no_ring_rotary_encoder_ec12
+ StepUp generated footprint
+
+0
+13
+6
+cipulot_parts
+ecs_pad_2.666U_spaced_no_ring_horizontal
+ StepUp generated footprint
+
+0
+9
+3
+cipulot_parts
+ecs_pad_2.666U_spaced_no_ring_vertical
+ StepUp generated footprint
+
+0
+11
+4
 cipulot_parts
 ecs_pad_2U_no_ring
  StepUp generated footprint
 
 0
-4
+6
 3
 cipulot_parts
 ecs_pad_2U_no_ring_ 東プレ _十六条旭日旗
  StepUp generated footprint
 
 0
-4
+6
 3
 cipulot_parts
 ecs_pad_2U_no_ring_alveus
  StepUp generated footprint
 
 0
-4
+6
+3
+cipulot_parts
+ecs_pad_2U_no_ring_cut
+ StepUp generated footprint
+
+0
+6
+3
+cipulot_parts
+ecs_pad_2U_no_ring_horizontal
+ StepUp generated footprint
+
+0
+6
 3
 cipulot_parts
 ecs_pad_2U_no_ring_no_silk
  StepUp generated footprint
 
 0
-4
+6
 3
 cipulot_parts
 ecs_pad_4port
  StepUp generated footprint
 
 0
-5
+7
 3
 cipulot_parts
 ecs_pad_no_ring_1u&1.25u&1.5u
  StepUp generated footprint
 
 0
-4
+8
 3
 cipulot_parts
 ecs_pad_no_ring_1u1.75u
@@ -95883,14 +96219,14 @@ ecs_pad_no_ring_stepped&normal
  StepUp generated footprint
 
 0
-4
+8
 3
 cipulot_parts
 ecs_pad_no_ring_stepped&normal_cut
  StepUp generated footprint
 
 0
-4
+8
 3
 cipulot_parts
 ecs_plate_3U_space_stab
@@ -95948,6 +96284,20 @@ ecs_plate_cut_8U_space_stab
 0
 0
 0
+cipulot_parts
+flx_SUpSmall
+
+
+0
+2
+1
+cipulot_parts
+flx_small
+
+
+0
+2
+1
 cipulot_parts
 mousebites_1mm
 
