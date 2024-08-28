@@ -58,11 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "copper_edge_clearance|231804750|21630750|7e5e5bdc-ceca-43ea-93e8-39a045eb4bde|1652c4c4-f799-4020-ac85-caca6b6cbfea",
-        "copper_edge_clearance|240444750|21630750|7e5e5bdc-ceca-43ea-93e8-39a045eb4bde|b4c80ced-da66-480b-a47c-46f47d5b1459",
-        "courtyards_overlap|241924999|41963751|4afb3ecf-2591-405b-b4d8-084df4e28324|db091dad-7430-49d0-a62b-8f5cd41f8186"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -519,7 +515,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Production/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
