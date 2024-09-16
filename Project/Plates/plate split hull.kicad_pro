@@ -450,7 +450,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "plate.kicad_pro",
+    "filename": "plate split hull.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -518,7 +518,7 @@
       "plot": "Production/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "topre test 625.step",
+      "step": "hull split.step",
       "svg": "",
       "vrml": ""
     },

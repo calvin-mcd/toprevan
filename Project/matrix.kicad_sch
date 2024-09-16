@@ -577,10 +577,10 @@
 		(uuid "5d142bcc-69d6-49e9-8d0a-2edc07aaff9a")
 	)
 	(junction
-		(at 88.265 99.06)
+		(at 106.68 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "5d6de651-2ea5-4ba4-a627-1173ccf8d30a")
+		(uuid "5e92e24c-a548-443e-8b7c-25930606b6d5")
 	)
 	(junction
 		(at 183.515 99.06)
@@ -703,12 +703,6 @@
 		(uuid "8c3fb90a-fdf4-4bf5-a4ec-57698714f542")
 	)
 	(junction
-		(at 93.345 97.79)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8cd5aef5-08a5-471b-9b95-4175b1a6353f")
-	)
-	(junction
 		(at 146.05 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -791,6 +785,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "adadd236-699f-48a6-b9f5-03cbb76b8d68")
+	)
+	(junction
+		(at 111.76 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "adbe3bc5-61e9-40ab-b2be-1071158ef8ea")
 	)
 	(junction
 		(at 69.215 60.96)
@@ -1140,6 +1140,16 @@
 	)
 	(wire
 		(pts
+			(xy 111.76 97.79) (xy 130.81 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c6ca064-3f6a-431e-aebd-56a9daf67301")
+	)
+	(wire
+		(pts
 			(xy 146.05 99.06) (xy 183.515 99.06)
 		)
 		(stroke
@@ -1440,16 +1450,6 @@
 	)
 	(wire
 		(pts
-			(xy 88.265 99.06) (xy 125.73 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "329e30e7-b912-4dbc-a4db-4aa23b3ba844")
-	)
-	(wire
-		(pts
 			(xy 212.725 45.72) (xy 212.725 57.15)
 		)
 		(stroke
@@ -1730,7 +1730,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.295 97.79) (xy 93.345 97.79)
+			(xy 74.295 97.79) (xy 111.76 97.79)
 		)
 		(stroke
 			(width 0)
@@ -2210,7 +2210,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.215 99.06) (xy 88.265 99.06)
+			(xy 69.215 99.06) (xy 106.68 99.06)
 		)
 		(stroke
 			(width 0)
@@ -2317,6 +2317,16 @@
 			(type default)
 		)
 		(uuid "acbc8731-8ac6-4b72-917f-7dfa8b7455e7")
+	)
+	(wire
+		(pts
+			(xy 106.68 99.06) (xy 125.73 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad6768b1-4518-4e39-a926-b9e246c0577e")
 	)
 	(wire
 		(pts
@@ -2580,16 +2590,6 @@
 	)
 	(wire
 		(pts
-			(xy 93.345 97.79) (xy 130.81 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d3c648db-a875-483f-95b7-0e19c1195003")
-	)
-	(wire
-		(pts
 			(xy 60.96 82.55) (xy 60.96 95.25)
 		)
 		(stroke
@@ -2630,7 +2630,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.265 95.25) (xy 88.265 99.06)
+			(xy 106.68 95.25) (xy 106.68 99.06)
 		)
 		(stroke
 			(width 0)
@@ -2700,7 +2700,7 @@
 	)
 	(wire
 		(pts
-			(xy 98.425 95.25) (xy 117.475 95.25)
+			(xy 116.84 95.25) (xy 117.475 95.25)
 		)
 		(stroke
 			(width 0)
@@ -4890,7 +4890,7 @@
 	)
 	(symbol
 		(lib_id "cipulot_parts:Topre")
-		(at 93.345 95.25 0)
+		(at 111.76 95.25 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4899,7 +4899,7 @@
 		(fields_autoplaced yes)
 		(uuid "801ed2d4-7e5b-4937-8583-b11be1bf0a59")
 		(property "Reference" "SW_EC4"
-			(at 93.345 88.265 0)
+			(at 111.76 88.265 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4907,7 +4907,7 @@
 			)
 		)
 		(property "Value" "Topre"
-			(at 93.345 90.805 0)
+			(at 111.76 90.805 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4916,7 +4916,7 @@
 			)
 		)
 		(property "Footprint" "cipulot_parts:ecs_pad_1U_no_ring"
-			(at 93.345 90.17 0)
+			(at 111.76 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4925,7 +4925,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 93.345 90.17 0)
+			(at 111.76 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4934,7 +4934,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 93.345 95.25 0)
+			(at 111.76 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)

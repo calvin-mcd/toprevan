@@ -518,7 +518,7 @@
       "plot": "Production/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "plate split.step",
+      "step": "topre test split.step",
       "svg": "",
       "vrml": ""
     },
