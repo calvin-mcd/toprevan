@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "8.0.3"
+      "Version": "8.0.5"
     },
-    "CreationDate": "2024-08-24T23:48:56+02:00"
+    "CreationDate": "2024-11-10T15:20:17+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -38,18 +38,8 @@
       "FilePolarity": "Positive"
     },
     {
-      "Path": "plate split-B_Cu.gbr",
-      "FileFunction": "Copper,L2,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
       "Path": "plate split-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "plate split-B_Paste.gbr",
-      "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
@@ -58,18 +48,8 @@
       "FilePolarity": "Positive"
     },
     {
-      "Path": "plate split-B_Silkscreen.gbr",
-      "FileFunction": "Legend,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
       "Path": "plate split-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
-      "FilePolarity": "Negative"
-    },
-    {
-      "Path": "plate split-B_Mask.gbr",
-      "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
