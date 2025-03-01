@@ -7,7 +7,7 @@ Each layout requires its own respective plate. Various plate files can be found 
 ***VERSIONS***:
 In the production folder you will find both the prototype production files and the revision files (as well as various plate files). Please be aware when ordering pcbs of their differences and what aspects have not been confirmed to work yet.
 - The prototype is sporting a standard usb port which limits case compatibility a bit but using o-rings like on the travaulta should mitigate that in a bunch of cases. The rgb breakout has not been tested. Otherwise the pcb is fully working.
-- The revision is using another USB port for more compatibility. It also sports all of the traymount holes  The rgb breakout has still not been tested. The revision has not been prototyped yet.
+- The revision is using another USB port for more compatibility. It also sports all of the traymount holes. The rgb breakout has still not been tested. The revision has not been prototyped yet.
 
 ## Layout
 
